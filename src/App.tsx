@@ -551,7 +551,15 @@ function App() {
           </div>
         )}
       </div>
+      <>
+    <footer className="footer">
+      <div className="container text-center"style={{color:"darkgrey"}}>
+        <p>Developed By &copy; Mostafa Esam</p>
+      </div>
+    </footer>
+    </>
     </div>
+
   );
 }
 
